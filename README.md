@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlessingNyagwaya
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ..javascript
+- 👀 I’m interested in ...web development and gui ++
+- 🌱 I’m currently learning ..gui ggui c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... nyagwayablessing@gmail.com
 
